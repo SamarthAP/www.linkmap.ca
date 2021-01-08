@@ -11,3 +11,24 @@ This is where we come in. Whether you are a student, social media influencer, as
 ## Design
 
 Here is a brief outline of how LinkMap was built and the tools and technologies that were used.
+
+### Front End
+
+Tools used to develop the front end and user interface of LinkMap:
+
+- [React.js](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Netlify](https://www.netlify.com/)
+- [Amazon Web Services](https://aws.amazon.com/)
+- [Sentry](https://sentry.io/)
+
+### Back End
+
+Tools used to develop the back end services and infrastructure of LinkMap:
+
+- [Node.js](https://nodejs.org/)
+- [Amazon Web Services](https://aws.amazon.com/)
+- [Serverless Framework](https://www.serverless.com/)
+- [Seed](https://seed.run/)
+- [Google Domains](https://domains.google.com/)
