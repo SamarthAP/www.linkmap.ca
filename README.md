@@ -19,6 +19,7 @@ Tools used to develop the front end and user interface of LinkMap:
 - [React.js](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Sketch](https://www.sketch.com/)
 - [Netlify](https://www.netlify.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
 - [Sentry](https://sentry.io/)
